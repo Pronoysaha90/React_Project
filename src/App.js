@@ -1,7 +1,8 @@
 import "./App.css";
-import Navber from "./components/navber";
-import Info from "./components/info";
+import Navber from "./components/Navber";
 import MyText from "./components/textForm";
+import About from "./components/About";
+
 
 function App() {
   return (
@@ -17,6 +18,11 @@ function App() {
       <div className="container">
         <MyText massage = "Massage" />
       </div>
+
+      <div className="container">
+        <About />
+      </div>
+
     </>
   );
 }

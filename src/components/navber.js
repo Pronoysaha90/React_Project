@@ -4,7 +4,7 @@ import Form from 'react-bootstrap/Form';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 
-export default function navber() {
+export default function Navber() {
   return (
     <div>
       <Navbar expand="lg" className="bg-body-tertiary">
