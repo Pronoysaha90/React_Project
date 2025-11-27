@@ -34,8 +34,7 @@ export default function About() {
         <Card.Body>
           <Card.Title>Card Title</Card.Title>
           <Card.Text>
-            Some quick example text to build on the card title and make up the
-            bulk of the card's content.
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio quis eligendi asperiores numquam cum debitis impedit eaque nisi, eveniet officiis veritatis sint omnis sapiente sunt eos quasi dolorum dolorem expedita. Dignissimos delectus omnis nam ea quos adipisci excepturi nobis rerum, labore placeat iste atque fugiat saepe voluptate. Voluptatibus, odit praesentium.
           </Card.Text>
           <Button variant="primary">Learn More</Button>
         </Card.Body>
