@@ -34,7 +34,7 @@ export default function About() {
         <Card.Body>
           <Card.Title>Card Title</Card.Title>
           <Card.Text>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure quis tempora animi adipisci, labore esse.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur libero tempora nemo.
           </Card.Text>
           <Button variant="primary">Learn More</Button>
         </Card.Body>
